@@ -4,7 +4,7 @@
 Software with simple GUI for velocity profile and/or vessel diameter extrapolation.
 
 ## License
-FloWave.US is licensed under the MIT license.
+TG Vascutrack is licensed under the MIT license.
 Third-party software (ginputyellow.m and vesselfilter2d.m, calibration.m) are used according to their respective license agreements.
 
 ## Remarks
