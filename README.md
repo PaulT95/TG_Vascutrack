@@ -11,10 +11,10 @@ Software with simple GUI for velocity profile and/or vessel diameter extrapolati
 
 ## License
 TG Vascutrack is licensed under the MIT license.
-Third-party software (ginputyellow.m and vesselfilter2d.m, calibration.m) are used according to their respective license agreements.
+Third-party software (ginputYellow.m, vesselness2d.m, calibration.m) is used according to their respective license agreements.
 
 ## Remarks
-Thank you for your interest in TG Vascutrack. We hope the program continues to improve and becomes a community effort to provide high quality, efficient, and inexpensive data processing solutions for ultrasound blood flow research.
+Thank you for your interest in TG Vascutrack. We hope the program continues to improve and becomes a community effort to provide high-quality, efficient, and inexpensive data processing solutions for ultrasound blood flow research.
 
 If you find TG Vascutrack useful in your research, please consider citing the following:
 
