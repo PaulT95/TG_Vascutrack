@@ -1,2 +1,2 @@
-# TG_VascuTrack
-Software with for velocity profile and/or vessel diameter extrapolation
+# TG VascuTrack
+Software with simple GUI for velocity profile and/or vessel diameter extrapolation.
