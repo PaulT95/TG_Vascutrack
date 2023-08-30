@@ -3,6 +3,12 @@
 
 Software with simple GUI for velocity profile and/or vessel diameter extrapolation.
 
+
+
+## Example vessel border detection
+
+![Gif_Tracking](https://github.com/PaulT95/TG_VascuTrack/assets/73119114/c64121f7-88d1-44ac-af55-78a93d5bd64f)
+
 ## License
 TG Vascutrack is licensed under the MIT license.
 Third-party software (ginputyellow.m and vesselfilter2d.m, calibration.m) are used according to their respective license agreements.
