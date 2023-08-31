@@ -29,7 +29,7 @@ longestLineLength = 0;
 longestLineIndex = 0;
 
 for k = 1:length(lines)
-    if abs(lines(k).theta) < .5 % Check if the line is approximately horizontal
+    if abs(lines(k).theta) < .1 % Check if the line is approximately horizontal
         lineLength = norm(lines(k).point1 - lines(k).point2);
         if lineLength > longestLineLength
             longestLineLength = lineLength;
@@ -38,7 +38,14 @@ for k = 1:length(lines)
     end
 end
 
- xy = [lines(longestLineIndex).point1; lines(longestLineIndex).point2];
+%if it does not detect any horizontal because of wrong parms, just return
+%an empty 
+if longestLineIndex==0
+    Hline_range = [];
+    return
+end
+
+xy = [lines(longestLineIndex).point1; lines(longestLineIndex).point2];
 
 %Display the longest horizontal line
 % figure;
