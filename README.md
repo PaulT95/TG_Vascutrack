@@ -16,6 +16,5 @@ Third-party software (ginputYellow.m, vesselness2d.m, calibration.m) is used acc
 ## Remarks
 Thank you for your interest in TG Vascutrack. We hope the program continues to improve and becomes a community effort to provide high-quality, efficient, and inexpensive data processing solutions for ultrasound blood flow research.
 
-If you find TG Vascutrack useful in your research, please consider citing the following:
-
-Tecchio P., Gentilin A., x x x x
+If you find TG Vascutrack useful in your research, please cite our work:
+[Tecchio, P. and Gentilin, A. (2024), TG Vascutrack: A User-Friendly and Open-Source Software for Automated Extraction of Arterial Diameter and Velocity Profile Data From Vascular Ultrasound Videos. J Ultrasound Med.](https://doi.org/10.1002/jum.16553)
